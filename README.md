@@ -1,6 +1,6 @@
 # Computer Vision: Image Segmentation & CNN Classification
 
-Coursework project (COM675) covering two computer vision tasks: foreground segmentation on custom images and CNN-based image classification with a customised dataset.
+Coursework project covering two computer vision tasks: foreground segmentation on custom images and CNN-based image classification with a customised dataset.
 
 ## Overview
 
@@ -9,7 +9,7 @@ Coursework project (COM675) covering two computer vision tasks: foreground segme
 - **Language/Tools:** Python, OpenCV, TensorFlow, Keras
 - **Context:** COM675 Computer Vision coursework, Ulster University
 
-## Part A — Image Segmentation
+## Part A : Image Segmentation
 
 Segmented the foreground from a self-collected set of original images (captured by phone/camera, not sourced online) using two different approaches:
 
@@ -18,7 +18,7 @@ Segmented the foreground from a self-collected set of original images (captured 
 
 Results from both methods are compared to evaluate which performed better on the collected images, and why.
 
-## Part B — Image Classification (CNN)
+## Part B : Image Classification (CNN)
 
 Built and compared two CNN models for image classification:
 
